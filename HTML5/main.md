@@ -14,3 +14,7 @@
 1. XHTML is a combination of HTML and XML (Extensible Markup Language).
 1. XHTML using XML rules to mark up everything correctly, which results in "well-formed" documents.
 1. XML is designed to describe data, and HTML is designed to display data.
+
+### 4. What is DHTML or what is HTML 4?
+1.	DHTML stands for Dynamic HTML.
+1.	DHTML is the art of combining HTML, JavaScript, DOM, and CSS which is supported in HTML4.0 and From HTML4.0 supports DHTML
