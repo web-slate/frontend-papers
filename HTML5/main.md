@@ -27,3 +27,6 @@
 1. In XHTML, Element and attribute names must be in lower case and attribute values must always be quoted
 1. In XHTML, For non-empty elements (&lt;p&gt;), end tags are required and Empty elements must either have an end tag
 1. XHTML has Attribute Minimization like (checked, disabled, readonly for input and selected="selected" for options)
+
+### 7.	What is the easiest way to convert my HTML documents to XHTML?
+1. HTML Tidy gives you the option to transform any HTML document into an XHTML/
