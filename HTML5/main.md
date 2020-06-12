@@ -18,3 +18,6 @@
 ### 4. What is DHTML or what is HTML 4?
 1.	DHTML stands for Dynamic HTML.
 1.	DHTML is the art of combining HTML, JavaScript, DOM, and CSS which is supported in HTML4.0 and From HTML4.0 supports DHTML
+
+### 5. Why HTML and why not SGML?
+1. SGML is not well suited to serving documents over the web.
