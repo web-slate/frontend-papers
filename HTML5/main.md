@@ -25,5 +25,5 @@
 ### 6.	Difference between HTML and XHTML?
 1. HTML does not follow the XML rules but XHTML follow the XML rules
 1. In XHTML, Element and attribute names must be in lower case and attribute values must always be quoted
-1. In XHTML, For non-empty elements (<p>), end tags are required and Empty elements must either have an end tag
+1. In XHTML, For non-empty elements (&lt;p&gt;), end tags are required and Empty elements must either have an end tag
 1. XHTML has Attribute Minimization like (checked, disabled, readonly for input and selected="selected" for options)
