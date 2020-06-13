@@ -35,3 +35,7 @@
 1. XML tools become available.
 1. XForms for instance will allow you to edit XHTML documents.
 
+### 9. Why XHTML Modularization?
+1. An implementation of the abstraction using XML Document Type Definitions
+1. XHTML Modularization splits XHTML into a number of modules that can be individually selected when defining a new language.
+
