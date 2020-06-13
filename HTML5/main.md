@@ -30,3 +30,8 @@
 
 ### 7.	What is the easiest way to convert my HTML documents to XHTML?
 1. HTML Tidy gives you the option to transform any HTML document into an XHTML/
+
+### 8.	Advantages of XHTML?
+1. XML tools become available.
+1. XForms for instance will allow you to edit XHTML documents.
+
