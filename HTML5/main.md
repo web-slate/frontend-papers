@@ -39,3 +39,5 @@
 1. An implementation of the abstraction using XML Document Type Definitions
 1. XHTML Modularization splits XHTML into a number of modules that can be individually selected when defining a new language.
 
+### 10.	What is Well-formed?
+1. A document is well-formed when it is structured according to the rules.
