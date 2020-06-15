@@ -45,3 +45,6 @@
 ### 11.	What is Hyper Text?
 1. Hypertext is text displayed on a computer or other electronic device that reader can immediately access.
 1. It is a special kind of text document that is used by Web browsers to present text and graphics.
+
+### 12.	What is Markup Language?
+1. A markup language is a modern system for annotating a text in a way that is syntactically distinguishable from that text.
