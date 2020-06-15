@@ -48,3 +48,8 @@
 
 ### 12.	What is Markup Language?
 1. A markup language is a modern system for annotating a text in a way that is syntactically distinguishable from that text.
+
+### 13.	What is etag?
+1. An Etag is an "entity tag"
+1. It provides a unique identifier for the resource being supplied.
+1. Several mechanisms that HTTP provides for cache validation
