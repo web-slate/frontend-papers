@@ -18,3 +18,9 @@ It all about Front-end information and its Free for beginners to Experts.
 1. #### WebPack
 1. #### Rollup
 1. #### Parcel
+#### DevOps
+1. #### Shell Script
+1. #### Git
+1. #### Linux
+1. #### [Docker](Docker/main.md)
+1. #### Kubernates
