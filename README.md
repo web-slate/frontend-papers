@@ -2,7 +2,7 @@
 It all about Front-end information and its Free for beginners to Experts.
 
 #### [HTML5](HTML5/main.md)
-#### [CSS3](CSS3/main.md)
+#### [CSS3](CSS/main.md)
 #### JS Frameworks
 1. #### BootStrap
 1. #### Material UI
