@@ -1,6 +1,18 @@
 {
     "cSpell.words": [
-        "dhtml",
-        "kubernates"
-    ]
+      "arity",
+      "dhtml",
+      "eventloop",
+      "iife",
+      "kubernates",
+      "microtask",
+      "microtasks",
+      "unhandledrejection"
+    ],
+
+    "editor.tabSize": 2,
+
+    "editor.insertSpaces": true,
+  
+    "editor.detectIndentation": false
 }
