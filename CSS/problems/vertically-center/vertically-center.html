@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+  <meta name="theme-color" content="#000000">
+  <meta name="googlebot" content="noindex, noarchive" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Vertically Center</title>
+
+  <style type="text/css">
+    body {
+      display: flex;
+    }
+
+    .container {
+      width: 500px;
+      height: 100px;
+      border: 1px solid blue;
+    }
+
+    .element {
+      background: pink;
+      height: 50px;
+    }
+
+    .example1 {
+      display: flex;
+      margin: auto;
+    }
+
+    .example1 .element {
+      margin: auto;
+    }
+
+    .example2 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .example2 .element {
+      background-color: grey;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container example1">
+    <div class="element">Flex Example</div>
+  </div>
+
+  <div class="container example2">
+    <div class="element">Flex example with justify-content and align-items</div>
+  </div>
+</body>
+
+</html>
